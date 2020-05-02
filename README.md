@@ -10,4 +10,4 @@ A robot is about to randomly shoot an arrow at you, use your mouse to click in o
 This game was created between collaborating team members Leah Hong, Michael May, and Kian Shain; with also the assistance of our GSI Nick Cinko.
 
 #
-![BlockThis](BlockThisPic.png)
+![BlockThis](C:\Users\kians\Pictures\Screenshots\BlockThisPic.png)
