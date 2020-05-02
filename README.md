@@ -3,8 +3,7 @@ Try blocking as many arrows from the evil robot guarding the pyramid tomb with y
 # Installation
 $ git clone https://github.com/kian466/BlockThis.git 
 #
-to copy the files such as sprite png's and the video game code onto your local computer.
-(Note: May have to slightly change pathway of the sprite images in BlockThis.py to your own local desktop)
+to copy the files such as sprite png's and the video game code onto your local computer. A Background draft is also included to show our beginning steps of creating this game. (Note: May have to slightly change pathway of the sprite images in BlockThis.py to your own local desktop to run game)
 # Instructions
 A robot is about to randomly shoot an arrow at you, use your mouse to click in one out of the three square areas to place your shield in and see if you guess correctly on which box the robot will shoot in. Guess right and you are awarded with +1 point = 1 Treasure. Guess wrong and your score will reset. 
 # Acknowledgements
