@@ -7,5 +7,5 @@ to copy the files such as sprite png's and the video game code onto your local c
 (Note: May have to slightly change pathway of the sprite images in BlockThis.py to your own local desktop)
 # Instructions
 A robot is about to randomly shoot an arrow at you, use your mouse to click in one out of the three square areas to place your shield in and see if you guess correctly on which box the robot will shoot in. Guess right and you are awarded with +1 point = 1 Treasure. Guess wrong and your score will reset. 
-#Acknowledgements
+# Acknowledgements
 This game was created between collaborating team members Leah Hong, Michael May, and Kian Shain; with also the assistance of our GSI Nick Cinko.
